@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generate PDF Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .box {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 18px;
+            border: none;
+            background: #0077ff;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #005fcc;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>Automated Report Generator</h1>
+        <p>Click below to download the PDF report</p>
+        <a href="/generate"><button>Generate Report</button></a>
+    </div>
+</body>
+</html>
