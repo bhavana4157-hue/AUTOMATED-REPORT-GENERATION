@@ -32,3 +32,7 @@ In summary, this project successfully combines data handling, web programming, a
 
 *OUTPUT*:
 
+<img width="1762" height="865" alt="Image" src="https://github.com/user-attachments/assets/ee499667-6ace-41c2-b4b9-11dee4690191" />
+
+<img width="1848" height="876" alt="Image" src="https://github.com/user-attachments/assets/b9b73a1f-4579-43a7-9711-43b5d1d2b3bb" />
+
